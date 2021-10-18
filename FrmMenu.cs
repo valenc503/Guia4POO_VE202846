@@ -26,7 +26,9 @@ namespace Guia4_POO_VE202846
 
         private void button2_Click(object sender, EventArgs e)
         {
-            
+            Form Menu = new FrmUniversidad();
+            Menu.Show();
+            this.Hide();
         }
 
         private void button3_Click(object sender, EventArgs e)

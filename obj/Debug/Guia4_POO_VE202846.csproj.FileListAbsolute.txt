@@ -13,3 +13,4 @@ C:\Users\josue\OneDrive\Escritorio\Guia4_POO_VE202846\Guia4_POO_VE202846\obj\Deb
 C:\Users\josue\OneDrive\Escritorio\Guia4_POO_VE202846\Guia4_POO_VE202846\obj\Debug\Guia4_POO_VE202846.csproj.CoreCompileInputs.cache
 C:\Users\josue\OneDrive\Escritorio\Guia4_POO_VE202846\Guia4_POO_VE202846\obj\Debug\Guia4_POO_VE202846.exe
 C:\Users\josue\OneDrive\Escritorio\Guia4_POO_VE202846\Guia4_POO_VE202846\obj\Debug\Guia4_POO_VE202846.pdb
+C:\Users\josue\OneDrive\Escritorio\Guia4_POO_VE202846\Guia4_POO_VE202846\obj\Debug\Guia4_POO_VE202846.FrmUniversidad.resources
